@@ -1,0 +1,61 @@
+html, body {
+    height: 100%;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    background: linear-gradient(to bottom, #485563 0%, #29323c 100%);
+}
+
+h2 {
+    display: table-row;
+    font-size: x-large;
+    color: #fff;
+}
+
+h3 {
+    display: table-row;
+    font-size: initial;
+    color: #ddd;
+}
+
+.subtitle {
+    font-weight: bold;
+}
+
+.map {
+    display : block;
+}
+
+#r1:hover,
+#r2:hover,
+#r3:hover,
+#r4:hover,
+#r5:hover,
+#r6:hover,
+#r7:hover,
+#r8:hover,
+#r9:hover,
+#r10:hover,
+#r11:hover,
+#r12:hover,
+#r13:hover,
+#r14a:hover,
+#r14b:hover,
+#r15a:hover,
+#r15b:hover,
+#r15c:hover,
+#r15d:hover,
+#r16:hover,
+#r17a:hover,
+#r17b:hover  {
+    fill: #ccc;
+}
